@@ -15,8 +15,7 @@ cd emsdk
 ```
 (Note, that the install will take a while. More information is [here](http://webassembly.org/getting-started/developers-guide/).)
 
-
-The best way to install this module is via `npm install wasm-init`.
+The best way to install this module is through [npm](https://www.npmjs.com/package/wasm-init) via `npm install wasm-init`.
 <br><br>
 
 ### **Use**
